@@ -1,5 +1,5 @@
 ### Hi
-Like binary security and reverse engineering focused on the Windows platform
+Love reverse engineering, love windows kernel
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldpon&show_icons=true)
 -->
